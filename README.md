@@ -1,5 +1,6 @@
 # react-collections-cw
 ### Nice work! And great job completing the challenge
+### Score : 5/5
 You will be rendering from a people JSON collection. Use the test database content provided in this project and produce output similar to the example in the screenshot below.
 
 - Create a new top level `AppContainer` component that reads in the JSON array of objects and stores the reference in a variable (hint: copy the data file to your `components` directory and use require())
